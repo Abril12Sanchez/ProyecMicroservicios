@@ -4,8 +4,8 @@ En este proyecto se centra en una aplicación de renta de Juegos Mecanicos, en l
 Este aplicación se divide en -- microservicios los cuales son:
 
 - Autenticación 
--
--
--
+- Gestion de Juegos
+- Reservas
+- Pagos
 
 
